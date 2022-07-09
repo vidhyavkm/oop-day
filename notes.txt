@@ -1,0 +1,42 @@
+content: 
+this, OOP in javascript
+
+OOP => object oriented programming
+OOPs:
+4 features:
+objects, classes, encapsulation, inheritance 
+
+the most popular model OOP model is a class-based.
+the object variable (names) has only two properties=> fname, lname
+this property come from object prototype.
+
+but javascript is a prototype object based language.
+object has always its keys and values.
+
+so javascript cannot use the class directly
+to make JS a classbased object we can use 2 ways:
+
+1. object literal
+2. object constructor
+
+class is always have a constructor and a function. 
+this constructor holds the parameters .
+and also this constructor has all variables inside it .
+
+this :this is an object in javascript
+it is primarily used to point to an instance of an object from constructor.
+
+keywords: constructor, new , this 
+
+classes:
+ it is like a blueprint of an object 
+ object is an instance 
+we say classes as a templates
+
+syntax: classname{
+    constructor(){
+
+    }
+}
+
+when u want to access n number of data then go for class constructor method
